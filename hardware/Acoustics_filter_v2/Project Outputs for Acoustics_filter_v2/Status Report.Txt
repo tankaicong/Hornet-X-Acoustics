@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Acoustics_filter_v2.PrjPcb]
+   Generated File[Filter_v2.TXT]
+   Generated File[Filter_v2.LDP]
+   Generated File[Filter_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:35:24 pm On 3/1/2025

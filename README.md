@@ -3,6 +3,8 @@
 Uploaded 26/08 for archiving purposes.
 Associated writeup found here: [https://tankaicong.com/projects/hornet/](https://tankaicong.com/projects/hornet/)
 
+Original repo (private): [https://github.com/BumblebeeAS/hornetx-electrical/tree/acoustics](https://github.com/BumblebeeAS/hornetx-electrical/tree/acoustics)
+
 ## Algorithm approach:
 1. A timer interrupt runs at 3x the sampling frequency (3*125kHz)
 	- For each timer callback, ADC conversion is started on one of the analog inputs to one of the ADC channels in a cyclical fashion (e.g. A0 -> ADC0, A1 -> ADC1, A2 -> ADC0, A0 -> ADC1, etc.)

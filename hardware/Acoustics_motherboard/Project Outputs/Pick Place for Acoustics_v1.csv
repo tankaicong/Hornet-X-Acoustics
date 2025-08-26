@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Acoustics\Project Outputs\Pick Place for Acoustics_v1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/12/24
+Time:       12:26
+Revision:   e8d4dc14d0138a7a3e8fa7680ccee46dfde60dc8
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","DEV-16771","TopLayer","DEV-16771-Footprint-1","1695.000mil","2680.000mil","90","RT1062 Teensy 4.1 series ARM® Cortex®-M7 MPU Embedded Evaluation Board"
+"U7","TPS5430DDA","TopLayer","FP-DDA0008J-MFG","1695.000mil","595.000mil","270","Switching Regulator, Voltage-mode, 6A, 500kHz Switching Freq-Max, PDSO8"
+"R5","2.32k","TopLayer","FP-RT0603-IPC_A","1530.000mil","605.000mil","270","2.32k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 2320ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R4","10k","TopLayer","FP-RT0603-IPC_A","1530.000mil","765.000mil","270","10k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"L2","22uH","TopLayer","INDP7066X28N","1870.000mil","945.000mil","180","2.5A 22uH Integrated molded inductor ±20% 3A SMD,6.6x7mm Power Inductors ROHS"
+"D2","SS34_C8678","TopLayer","SS34_C8678-Footprint-1","1873.882mil","506.024mil","90","SS34 40V 3A Schottky Diode"
+"C19","150uF","TopLayer","FP-POSCAP-D3L-MFG","1380.000mil","825.000mil","90","Tantalum Capacitor, Polarized, Tantalum (solid Polymer), 16V, 20% +Tol, 20% -Tol, 150uF, Surface Mount, 2917"
+"C18","22uF","TopLayer","FP-CC0805-0_85-IPC_A","1695.000mil","275.000mil","180","35V 22uF X5R ?20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C17","22uF","TopLayer","FP-CC0805-0_85-IPC_A","1695.000mil","385.000mil","180","35V 22uF X5R ?20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C16","10nF","TopLayer","FP-GCM188-0_1-IPC_A","1925.000mil","700.000mil","0","50V 10nF ceramic 0603 capacitor"
+"J8","B4B-XH-A(LF)(SN)","TopLayer","FP-B4B-XH-A_LF_SN-MFG","325.000mil","1424.213mil","90","Header for PCB; pitch 2.50mm; 4-contacts; THT male; top entry; 250V/3A"
+"J14","NO jumper","TopLayer","JUMPER","269.508mil","3030.000mil","270","Normally-Open SMD jumper pads"
+"J13","NO jumper","TopLayer","JUMPER","304.958mil","2111.450mil","270","Normally-Open SMD jumper pads"
+"J12","B4B-XH-A(LF)(SN)","TopLayer","FP-B4B-XH-A_LF_SN-MFG","325.000mil","3309.213mil","90","Header for PCB; pitch 2.50mm; 4-contacts; THT male; top entry; 250V/3A"
+"J11","B4B-XH-A(LF)(SN)","TopLayer","FP-B4B-XH-A_LF_SN-MFG","325.000mil","2389.213mil","90","Header for PCB; pitch 2.50mm; 4-contacts; THT male; top entry; 250V/3A"
+"J10","NO jumper","TopLayer","JUMPER","304.508mil","1145.000mil","270","Normally-Open SMD jumper pads"
+"J9","NO jumper","TopLayer","JUMPER","379.508mil","465.000mil","270","Normally-Open SMD jumper pads"
+"J7","B4B-XH-A(LF)(SN)","TopLayer","FP-B4B-XH-A_LF_SN-MFG","325.000mil","744.213mil","90","Header for PCB; pitch 2.50mm; 4-contacts; THT male; top entry; 250V/3A"
+"J6","61300611821","TopLayer","61300611821","535.000mil","3455.000mil","90","6P Single Row 2.54mm Wurth Elektronik Female Header Pin"
+"J5","61300611821","TopLayer","61300611821","535.000mil","2490.000mil","90","6P Single Row 2.54mm Wurth Elektronik Female Header Pin"
+"J4","61300611821","TopLayer","61300611821","535.000mil","1525.000mil","90","6P Single Row 2.54mm Wurth Elektronik Female Header Pin"
+"J3","61300611821","TopLayer","61300611821","535.000mil","560.000mil","90","6P Single Row 2.54mm Wurth Elektronik Female Header Pin"
+"SW1","B3U-1000P","TopLayer","FP-B3U-1000P-MFG","1955.000mil","1295.000mil","270","Switch Tactile N.O. SPST Round Button Solder Tab 12VDC 200000Cycles 1.5N SMD Emboss T/R"
+"U2","SN65HVD230DR","TopLayer","FP-D0008A-IPC_B","1695.000mil","3568.160mil","90","Interface Circuit, 1-Trnsvr, BICMOS, PDSO8"
+"R1","10k","TopLayer","FP-RT0603-IPC_A","1530.000mil","3630.000mil","270","10k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"J1","61300311121","TopLayer","61300311121","1645.000mil","3810.000mil","180","Board Connector, 3 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator, Plug (inverted 3D model)"
+"C2","10uF","TopLayer","FP-GCM188-0_1-IPC_A","1695.000mil","3280.000mil","0","25V 10uF Ceramic Capacitor, Multilayer, Ceramic, 25V, 10% +Tol, 10% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0603"
+"C1","100nF","TopLayer","FP-GCM188-0_1-IPC_A","1695.000mil","3370.000mil","0","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"J2","61300411121","TopLayer","61300411121-Footprint-1","1695.000mil","155.000mil","180","4P Single Row 2.54mm Wurth Elektronik Header Pin (inverted 3D model)"
+"U6","AMS1117-3.3","TopLayer","AMS1117-5.0-Footprint-1","841.024mil","746.254mil","0","3.3V Reg"
+"C15","100nF","TopLayer","FP-GCM188-0_1-IPC_A","840.000mil","560.000mil","0","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C14","1uF","TopLayer","FP-CC0805-0_85-IPC_A","840.000mil","455.000mil","0","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 1uF, Surface Mount, 0805"
+"C13","100nF","TopLayer","FP-GCM188-0_1-IPC_A","1070.000mil","745.000mil","270","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C12","1uF","TopLayer","FP-CC0805-0_85-IPC_A","1180.000mil","745.000mil","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 1uF, Surface Mount, 0805"
+"C10","100nF","TopLayer","FP-GCM188-0_1-IPC_A","1688.524mil","1516.254mil","180","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C9","1uF","TopLayer","FP-CC0805-0_85-IPC_A","1688.524mil","1621.254mil","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 1uF, Surface Mount, 0805"
+"C8","100nF","TopLayer","FP-GCM188-0_1-IPC_A","1458.524mil","1326.254mil","90","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"U4","AMS1117-5.0","TopLayer","AMS1117-5.0-Footprint-1","1687.500mil","1330.000mil","180","5V Reg"
+"C7","1uF","TopLayer","FP-CC0805-0_85-IPC_A","1348.524mil","1326.254mil","90","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 1uF, Surface Mount, 0805"
+"C3","0.33uF","TopLayer","FP-CC0805-0_85-IPC_A","110.000mil","130.000mil","0","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.33uF, Surface Mount, 0805"
+"C4","100nF","TopLayer","FP-GCM188-0_1-IPC_A","110.000mil","430.000mil","0","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"U3","78L12G-AB3-R","TopLayer","78L12G-AB3-R-Footprint-1","112.418mil","284.055mil","180","12V 100mA LDO Regulator"

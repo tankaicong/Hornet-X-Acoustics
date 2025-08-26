@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Acoustics_motherboard.PrjPcb]
+   Generated File[Acoustics_v1.TXT]
+   Generated File[Acoustics_v1.LDP]
+   Generated File[Acoustics_v1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:36:00 am On 23/12/2024

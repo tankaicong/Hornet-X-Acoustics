@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Acoustics_filter_v2\Project Outputs for Acoustics_filter_v2\Pick Place for Filter_v2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/12/24
+Time:       15:12
+Revision:   2d1517d436807af1fdf06673d2a6e7de0eb9d3d4
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","TL974IDR","TopLayer","D0014A_N","425.000mil","445.000mil","0","Operational Amplifier, 4 Func, 6000uV Offset-Max, BIPolar, PDSO14"
+"R16","158R","TopLayer","FP-RT0603-IPC_B","640.000mil","390.000mil","0","158R Fixed Resistor, Thin Film, 0.1W, 158ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R15","154R","TopLayer","FP-RT0603-IPC_B","670.000mil","500.000mil","180","154R Fixed Resistor, Thin Film, 0.1W, 154ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R14","4.99k","BottomLayer","FP-RT0603-IPC_B","380.000mil","345.000mil","270","4.99k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 4990ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R13","14.7k","BottomLayer","FP-RT0603-IPC_B","470.000mil","345.000mil","90","14.7k Fixed Resistor, Thin Film, 0.1W, 14700ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R12","1.05k","TopLayer","FP-RT0603-IPC_B","765.000mil","390.000mil","180","1.05k Fixed Resistor, Thin Film, 0.1W, 1050ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R11","14.3k","BottomLayer","FP-RT0603-IPC_B","470.000mil","545.000mil","270","14.3k Fixed Resistor, Thin Film, 0.1W, 14300ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R10","1.05k","TopLayer","FP-RT0603-IPC_B","795.000mil","500.000mil","180","1.05k Fixed Resistor, Thin Film, 0.1W, 1050ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R9","576R","TopLayer","FP-RT0603-IPC_B","210.000mil","520.000mil","0","576R Fixed Resistor, Thin Film, 0.1W, 576ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R8","10k","TopLayer","FP-RT0603-IPC_B","70.000mil","305.000mil","90","10k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R7","80.6k","TopLayer","FP-RT0603-IPC_B","720.000mil","650.000mil","0","80.6k Fixed Resistor, Thin Film, 0.1W, 80600ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R6","80.6k","TopLayer","FP-RT0603-IPC_B","470.000mil","690.000mil","90","80.6k Fixed Resistor, Thin Film, 0.1W, 80600ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R5","82.5k","TopLayer","FP-RT0603-IPC_B","135.000mil","750.000mil","180","82.5k Fixed Resistor, Thin Film, 0.1W, 82500ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R4","102k","TopLayer","FP-RT0603-IPC_B","610.000mil","280.000mil","270","102k Fixed Resistor, Thin Film, 0.1W, 102000ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R3","102k","TopLayer","FP-RT0603-IPC_B","620.000mil","630.000mil","90","102k Fixed Resistor, Thin Film, 0.1W, 102000ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R2","165k","TopLayer","FP-RT0603-IPC_B","240.000mil","625.000mil","90","165k Fixed Resistor, Thin Film, 0.1W, 165000ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
+"R1","10k","TopLayer","FP-RT0603-IPC_B","70.000mil","460.000mil","270","10k 1% Fixed Resistor, Metal Glaze/thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"C11","100nF","TopLayer","FP-GCM188-0_1-IPC_B","210.000mil","430.000mil","180","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C10","100nF","TopLayer","FP-GCM188-0_1-IPC_B","390.000mil","200.000mil","270","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C9","10uF","TopLayer","FP-GCM188-0_1-IPC_B","315.000mil","200.000mil","270","25V 10uF Ceramic Capacitor, Multilayer, Ceramic, 25V, 10% +Tol, 10% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0603"
+"C8","100nF","TopLayer","FP-GCM188-0_1-IPC_B","220.000mil","305.000mil","90","50V 100nF Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C7","10uF","TopLayer","FP-GCM188-0_1-IPC_B","145.000mil","305.000mil","90","25V 10uF Ceramic Capacitor, Multilayer, Ceramic, 25V, 10% +Tol, 10% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0603"
+"C6","360pF","TopLayer","FP-GCM188-0_1-IPC_B","710.000mil","315.000mil","180","Ceramic Capacitor, Multilayer, Ceramic, 100V, 1% +Tol, 1% -Tol, C0G, 30ppm/Cel TC, 0.00036uF, Surface Mount, 0603"
+"C5","330pF","TopLayer","FP-GCM188-0_1-IPC_B","760.000mil","575.000mil","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 1% +Tol, 1% -Tol, C0G, -/+30ppm/Cel TC, 0.00033uF, Surface Mount, 0603"
+"C4","360pF","TopLayer","FP-GCM188-0_1-IPC_B","135.000mil","600.000mil","0","Ceramic Capacitor, Multilayer, Ceramic, 100V, 1% +Tol, 1% -Tol, C0G, 30ppm/Cel TC, 0.00036uF, Surface Mount, 0603"
+"C3","360pF","TopLayer","FP-GCM188-0_1-IPC_B","710.000mil","240.000mil","180","Ceramic Capacitor, Multilayer, Ceramic, 100V, 1% +Tol, 1% -Tol, C0G, 30ppm/Cel TC, 0.00036uF, Surface Mount, 0603"
+"C2","330pF","TopLayer","FP-GCM188-0_1-IPC_B","545.000mil","690.000mil","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 1% +Tol, 1% -Tol, C0G, -/+30ppm/Cel TC, 0.00033uF, Surface Mount, 0603"
+"C1","360pF","TopLayer","FP-GCM188-0_1-IPC_B","133.611mil","675.000mil","0","Ceramic Capacitor, Multilayer, Ceramic, 100V, 1% +Tol, 1% -Tol, C0G, 30ppm/Cel TC, 0.00036uF, Surface Mount, 0603"
+"J1","61300611121","TopLayer","61300611121-Footprint-1","525.000mil","820.000mil","0","6P Single Row 2.54mm Wurth Elektronik Header Pin (inverted 3D model)"

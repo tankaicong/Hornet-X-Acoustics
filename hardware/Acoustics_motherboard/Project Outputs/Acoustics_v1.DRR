@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Acoustics_v1.PcbDoc   23/12/2024  2:36:00 am
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Acoustics_v1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             8         PTH        0.36inch (9.10mm)
+T2      12mil (0.305mm)                                           Round             38        PTH        13.36inch (339.24mm)
+T3      32mil (0.8mm)                                             Round             49        PTH        8.51inch (216.15mm)
+T4      35mil (0.899mm)                                           Round             16        PTH        2.86inch (72.65mm)
+T5      40mil (1.021mm)                                           Round             24        PTH        3.39inch (86.23mm)
+T6      43mil (1.1mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T7      45mil (1.151mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T8      84mil (2.134mm)                                           Round             4         PTH        2.89inch (73.53mm)
+T9      125mil (3.175mm)                                          Round             2         PTH        3.57inch (90.79mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              148
+
+Total Processing Time (hh:mm:ss) : 00:00:00
